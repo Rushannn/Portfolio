@@ -23,9 +23,9 @@ Contact: rushankarimov@gmail.com
 <details>
 <summary>Books Shop</summary>
 
-- Пункт 1
-- Пункт 2
-- Пункт 3
+- [Task](https://github.com/rolling-scopes-school/js-fe-course-en/blob/main/tasks/books-shop/books-shop.md)
+- [Deployment](https://rushannn.github.io/books-shop/)
+- [Code](https://github.com/Rushannn/books-shop/tree/book-shop)
 
 </details>
 
