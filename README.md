@@ -3,15 +3,6 @@ Contact: rushankarimov@gmail.com
 ## Projects
 
 <details>
-<summary>CV</summary>
-
-- Пункт 1
-- Пункт 2
-- Пункт 3
-
-</details>
-
-<details>
 <summary>Online Zoo</summary>
 
 - [Task](https://github.com/rolling-scopes-school/js-fe-course-en/blob/main/tasks/online-zoo/online-zoo.md)
@@ -32,8 +23,8 @@ Contact: rushankarimov@gmail.com
 <details>
 <summary>Async Race</summary>
 
-- Пункт 1
-- Пункт 2
-- Пункт 3
+- [Task](https://github.com/rolling-scopes-school/js-fe-course-en/blob/main/tasks/async-race/async-race.md)
+- [Deployment](https://rushannn.github.io/Async-race)
+- [Code](https://github.com/Rushannn/Async-race/tree/async-race)
 
 </details>
