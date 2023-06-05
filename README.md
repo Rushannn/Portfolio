@@ -14,9 +14,9 @@ Contact: rushankarimov@gmail.com
 <details>
 <summary>Online Zoo</summary>
 
-- Пункт 1
-- Пункт 2
-- Пункт 3
+- [Task](https://github.com/rolling-scopes-school/js-fe-course-en/blob/main/tasks/online-zoo/online-zoo.md)
+- [Deployment](https://rushannn.github.io/online-zoo/pages/main/)
+- [Code](https://github.com/Rushannn/online-zoo)
 
 </details>
 
