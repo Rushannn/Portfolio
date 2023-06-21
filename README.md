@@ -28,3 +28,6 @@ Contact: rushankarimov@gmail.com
 - [Code](https://github.com/Rushannn/Async-race/tree/async-race)
 
 </details>
+
+[![CodeWars Badge](https://www.codewars.com/users/rushannn/badges/small)](https://www.codewars.com/users/rushannn)
+
