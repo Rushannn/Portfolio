@@ -27,6 +27,10 @@ Contact: rushankarimov@gmail.com
 - [Deployment](https://rushannn.github.io/Async-race)
 - [Code](https://github.com/Rushannn/Async-race/tree/async-race)
 
+- <details>
+<summary>Latest Project</summary>
+- [Code](https://github.com/Rushannn/mentoring-users-app)
+
 </details>
 
 [![CodeWars Badge](https://www.codewars.com/users/rushannn/badges/small)](https://www.codewars.com/users/rushannn)
