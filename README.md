@@ -27,8 +27,11 @@ Contact: rushankarimov@gmail.com
 - [Deployment](https://rushannn.github.io/Async-race)
 - [Code](https://github.com/Rushannn/Async-race/tree/async-race)
 
-- <details>
+</details>
+
+ <details>
 <summary>Latest Project</summary>
+
 - [Code](https://github.com/Rushannn/mentoring-users-app)
 
 </details>
